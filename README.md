@@ -59,10 +59,6 @@ This project demonstrates practical implementation of Java Full Stack technologi
 
 - PostgreSQL
 
-### Build Tool
-
-- Maven
-
 ### IDE
 
 - Eclipse IDE
