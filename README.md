@@ -1,6 +1,6 @@
 # Employee Management System (EMS)
 
-A professional **Employee Management System** developed using **Java, JSP, Servlets, JDBC, PostgreSQL, Bootstrap, and Dynamic Web Project**. This web application enables administrators to securely manage employee records through a clean, responsive, and user-friendly interface.
+A professional **Employee Management System** developed using **Java, JSP, Servlets, JDBC, MySQL, Bootstrap, and Dynamic Web Project**. This web application enables administrators to securely manage employee records through a clean, responsive, and user-friendly interface.
 
 ---
 
@@ -57,7 +57,7 @@ This project demonstrates practical implementation of Java Full Stack technologi
 
 ### Database
 
-- PostgreSQL
+- MySQL
 
 ### IDE
 
@@ -213,7 +213,7 @@ Import the project into **Eclipse IDE** as an **Existing Maven Project**.
 
 ### Configure Database
 
-- Install PostgreSQL
+- Install MySQL
 - Create the required database and tables
 - Update the JDBC connection details
 
